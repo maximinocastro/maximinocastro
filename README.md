@@ -1,7 +1,13 @@
-### Hi there 👋
+### Seja Bem Vindo 👋
 
 <a href="https://www.linkedin.com/in/michael-maximino/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:michaelmaximino@hotmail.com.br">
+  <img src="https://img.shields.io/badge/hotmail-%23E60012.svg?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://api.whatsapp.com/send?phone=5511964268379&text=Github.com%20-%3E%20Ol%C3%A1!">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 <!--
