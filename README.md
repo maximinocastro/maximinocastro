@@ -25,6 +25,33 @@
 <img src="https://img.shields.io/static/v1?label=react&message=JavaScript&color=blue&style=for-the-badge&logo=javascript">
 </a>
 
+### Conhecimentos :computer:
+
+<br>
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/static/v1?label=react&message=Git&color=blue&style=for-the-badge&logo=git">
+</a>
+
+<br>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/static/v1?label=react&message=GitHub&color=blue&style=for-the-badge&logo=github">
+</a>
+
+<br>
+
+<a href="http://gitlab.com/">
+<img src="https://img.shields.io/static/v1?label=react&message=GitLab&color=blue&style=for-the-badge&logo=gitlab">
+</a>
+
+<br>
+
+<a href="https://tdn.totvs.com/display/tec/AdvPL/">
+<img src="https://img.shields.io/static/v1?label=Advpl&message=GitLab&color=blue&style=for-the-badge&logo=ADVPL">
+</a>
+
+
 <!--
 **maximinocastro/maximinocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
