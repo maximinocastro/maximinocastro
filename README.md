@@ -1,4 +1,4 @@
-### Seja Bem Vindo 👋
+<p align="center">### Seja Bem Vindo 👋</p>
 
 <a href="https://www.linkedin.com/in/michael-maximino/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
