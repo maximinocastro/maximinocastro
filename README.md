@@ -11,6 +11,11 @@
 <br>
 <br>
 
+### Estudando :book
+
+<br>
+<br>
+
 <a href="https://reactnative.dev/">
 <img src="https://img.shields.io/static/v1?label=react&message=ReactNative&color=blue&style=for-the-badge&logo=react">
 </a>
