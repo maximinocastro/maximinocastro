@@ -3,9 +3,14 @@
 <a href="https://www.linkedin.com/in/michael-maximino/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 <a href="https://api.whatsapp.com/send?phone=5511964268379&text=Github.com%20-%3E%20Ol%C3%A1!">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
+
+<br>
+<br>
+https://img.shields.io/static/v1?label=react&message=ReactNative&color=blue&style=for-the-badge&logo=react
 
 <!--
 **maximinocastro/maximinocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
