@@ -10,7 +10,7 @@
 
 <br>
 <br>
-https://img.shields.io/static/v1?label=react&message=ReactNative&color=blue&style=for-the-badge&logo=react
+<a href="https://img.shields.io/static/v1?label=react&message=ReactNative&color=blue&style=for-the-badge&logo=react"></a>
 
 <!--
 **maximinocastro/maximinocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
