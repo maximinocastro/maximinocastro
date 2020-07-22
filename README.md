@@ -11,9 +11,8 @@
 <br>
 <br>
 
-### Estudando :book
+### Estudando :blue_book:
 
-<br>
 <br>
 
 <a href="https://reactnative.dev/">
