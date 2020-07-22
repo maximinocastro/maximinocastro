@@ -22,7 +22,7 @@
 <br>
 
 <a href="https://www.javascript.com/">
-<img src="https://img.shields.io/static/v1?label=react&message=JavaScript&color=blue&style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/static/v1?label=javascript&message=JavaScript&color=blue&style=for-the-badge&logo=javascript">
 </a>
 
 ### Conhecimentos :computer:
@@ -36,19 +36,19 @@
 <br>
 
 <a href="https://github.com/">
-<img src="https://img.shields.io/static/v1?label=react&message=GitHub&color=blue&style=for-the-badge&logo=github">
+<img src="https://img.shields.io/static/v1?label=github&message=GitHub&color=blue&style=for-the-badge&logo=github">
 </a>
 
 <br>
 
 <a href="http://gitlab.com/">
-<img src="https://img.shields.io/static/v1?label=react&message=GitLab&color=blue&style=for-the-badge&logo=gitlab">
+<img src="https://img.shields.io/static/v1?label=gitlab&message=GitLab&color=blue&style=for-the-badge&logo=gitlab">
 </a>
 
 <br>
 
 <a href="https://tdn.totvs.com/display/tec/AdvPL/">
-<img src="https://img.shields.io/static/v1?label=Advpl&message=GitLab&color=blue&style=for-the-badge&logo=ADVPL">
+<img src="https://img.shields.io/static/v1?label=Advpl&message=label&color=blue&style=for-the-badge&logo=ADVPL">
 </a>
 
 
