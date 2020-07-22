@@ -19,6 +19,12 @@
 <img src="https://img.shields.io/static/v1?label=react&message=ReactNative&color=blue&style=for-the-badge&logo=react">
 </a>
 
+<br>
+
+<a href="https://www.javascript.com/">
+<img src="https://img.shields.io/static/v1?label=react&message=JavaScript&color=blue&style=for-the-badge&logo=javascript">
+</a>
+
 <!--
 **maximinocastro/maximinocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
