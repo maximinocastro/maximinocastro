@@ -30,7 +30,7 @@
 <br>
 
 <a href="https://git-scm.com/">
-<img src="https://img.shields.io/static/v1?label=react&message=Git&color=blue&style=for-the-badge&logo=git">
+<img src="https://img.shields.io/static/v1?label=git&message=Git&color=blue&style=for-the-badge&logo=git">
 </a>
 
 <br>
