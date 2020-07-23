@@ -1,5 +1,9 @@
 ### Seja Bem Vindo 👋
 
+💻 Atualmente desenvolvendo customizações para o ambiente ERP Protheus - TOTVS.
+
+:octocat: Busco em colaborar em novos projetos e customizações TOTVS ADVPL.
+
 <a href="https://www.linkedin.com/in/michael-maximino/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -48,7 +52,7 @@
 <br>
 
 <a href="https://tdn.totvs.com/display/tec/AdvPL/">
-<img src="https://img.shields.io/static/v1?label=Advpl&message=label&color=blue&style=for-the-badge&logo=ADVPL">
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor ADVPL&color=blue&style=for-the-badge&logo=ADVPL">
 </a>
 
 
