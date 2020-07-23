@@ -1,6 +1,6 @@
 ### Seja Bem Vindo 👋
 
-💻 Atualmente sou desenvolvedor na BUNZL SAÚDE
+💻  Atualmente sou desenvolvedor na BUNZL SAÚDE
 
 * Analista Programador ADVPL ERP Protheus - TOTVS
 
