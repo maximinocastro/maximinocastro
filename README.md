@@ -1,8 +1,12 @@
 ### Seja Bem Vindo 👋
 
-💻 Atualmente desenvolvendo customizações para o ambiente ERP Protheus - TOTVS.
+* Analista Programador ADVPL ERP Protheus - TOTVS
 
-:octocat: Busco em colaborar em novos projetos e customizações TOTVS ADVPL.
+💻 Atualmente sou desenvolvedor na BUNZL SAÚDE
+
+* Realizo Freelancer pontuais como (Ponto de Entrada e Melhorias em Rotinas), desenvolvimento fora do horário comercial.
+
+:octocat: Busco colaborar com a comunidade meus conhecimentos e novas ideias de rotinas customizadas e novas ideias.
 
 <a href="https://www.linkedin.com/in/michael-maximino/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
