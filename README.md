@@ -52,7 +52,7 @@
 <br>
 
 <a href="https://tdn.totvs.com/display/tec/AdvPL/">
-<img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor ADVPL&color=blue&style=for-the-badge&logo=ADVPL">
+<img src="https://img.shields.io/static/v1?label=TOTVS&message=ADVPL&color=blue&style=for-the-badge&logo=ADVPL">
 </a>
 
 
