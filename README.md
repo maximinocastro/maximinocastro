@@ -1,8 +1,8 @@
 ### Seja Bem Vindo 👋
 
-* Analista Programador ADVPL ERP Protheus - TOTVS
-
 💻 Atualmente sou desenvolvedor na BUNZL SAÚDE
+
+* Analista Programador ADVPL ERP Protheus - TOTVS
 
 * Realizo Freelancer pontuais como (Ponto de Entrada e Melhorias em Rotinas), desenvolvimento fora do horário comercial.
 
