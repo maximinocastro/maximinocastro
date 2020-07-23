@@ -6,7 +6,7 @@
 
 * Realizo Freelancer pontuais como (Ponto de Entrada e Melhorias em Rotinas), desenvolvimento fora do horário comercial.
 
-:octocat: Busco colaborar com a comunidade meus conhecimentos e novas ideias de rotinas customizadas e novas ideias.
+:octocat: Busco colaborar com a comunidade meus conhecimentos e novas ideias de rotinas customizadas.
 
 <a href="https://www.linkedin.com/in/michael-maximino/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
