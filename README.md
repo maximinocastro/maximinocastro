@@ -39,6 +39,12 @@
 <img src="https://img.shields.io/static/v1?label=javascript&message=JavaScript&color=blue&style=for-the-badge&logo=javascript">
 </a>
 
+<br>
+
+<a href="https://golang.org/">
+<img src="https://img.shields.io/static/v1?label=github&message=Go&color=blue&style=for-the-badge&logo=go">
+</a>
+
 ### Conhecimentos :computer:
 
 <br>
