@@ -42,7 +42,7 @@
 <br>
 
 <a href="https://golang.org/">
-<img src="https://img.shields.io/static/v1?label=github&message=Go&color=blue&style=for-the-badge&logo=go">
+<img src="https://img.shields.io/static/v1?label=github&message=Go&color=blue&style=for-the-badge&logo=golang">
 </a>
 
 ### Conhecimentos :computer:
