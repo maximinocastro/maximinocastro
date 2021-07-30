@@ -1,6 +1,6 @@
 ### Seja Bem Vindo 👋
 
-💻  Atualmente sou desenvolvedor na BUNZL SAÚDE
+💻  Atualmente sou desenvolvedor na LOOP CONSULTORIA
 
 * Analista Programador ADVPL ERP Protheus - TOTVS
 
