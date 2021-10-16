@@ -8,7 +8,7 @@
 
 :octocat: Busco colaborar com a comunidade meus conhecimentos e novas ideias de rotinas customizadas.
 
-<a href="https://www.linkedin.com/in/michael-maximino/">
+<a href="https://www.linkedin.com/in/michael-maximino-35a41224">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
