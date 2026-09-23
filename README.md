@@ -29,8 +29,6 @@
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximinocastro&layout=compact&hide_border=true&bg_color=05070D&title_color=4C9AFF&text_color=FFFFFF&langs_count=6&title=Top%20Linguagens" alt="Top Linguagens">
-
 - 🧩 **Especialista TOTVS Protheus**
 - 💙 Apaixonado por **Delphi**
 - ⚙️ Desenvolvo com **AdvPL / TLPP**, **Angular**, **C#** e **JavaScript**
