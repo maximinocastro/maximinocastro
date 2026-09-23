@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Michael Maximino de Castro - Especialista TOTVS Protheus">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070D"/>
+      <stop offset="100%" stop-color="#0B1426"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1E6FFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#4C9AFF"/>
+      <stop offset="100%" stop-color="#1E6FFF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <style>
+      .t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+      .fade{opacity:0;animation:in 1.2s ease forwards}
+      .d1{animation-delay:.2s}.d2{animation-delay:.6s}.d3{animation-delay:1s}
+      @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+      .pulse{animation:p 3s ease-in-out infinite}
+      @keyframes p{0%,100%{opacity:.25}50%{opacity:.9}}
+      .scan{animation:s 6s linear infinite}
+      @keyframes s{from{transform:translateX(-600px)}to{transform:translateX(1200px)}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+
+  <!-- detalhes decorativos -->
+  <circle cx="1060" cy="70" r="90" fill="none" stroke="#4C9AFF" stroke-opacity=".18"/>
+  <circle cx="1060" cy="70" r="130" fill="none" stroke="#4C9AFF" stroke-opacity=".08"/>
+  <circle class="pulse" cx="1060" cy="70" r="4" fill="#4C9AFF"/>
+  <circle class="pulse" cx="140" cy="250" r="3" fill="#FFFFFF" style="animation-delay:1.5s"/>
+
+  <g class="t">
+    <text class="fade d1" x="600" y="120" text-anchor="middle" fill="#FFFFFF" font-size="46" font-weight="300" letter-spacing="6">MICHAEL MAXIMINO DE CASTRO</text>
+    <rect class="fade d2" x="520" y="145" width="160" height="2" fill="#4C9AFF"/>
+    <text class="fade d2" x="600" y="190" text-anchor="middle" fill="#4C9AFF" font-size="20" font-weight="600" letter-spacing="8">ESPECIALISTA TOTVS PROTHEUS</text>
+    <text class="fade d3" x="600" y="230" text-anchor="middle" fill="#9AA4B2" font-size="15" letter-spacing="3">Delphi  ·  AdvPL / TLPP  ·  Angular  ·  C#  ·  JavaScript</text>
+  </g>
+
+  <rect x="0" y="296" width="1200" height="4" fill="#0B1426"/>
+  <rect class="scan" x="0" y="296" width="600" height="4" fill="url(#line)"/>
+</svg>

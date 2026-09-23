@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0B1426"/>
+      <stop offset="50%" stop-color="#05070D"/>
+      <stop offset="100%" stop-color="#0B1426"/>
+    </linearGradient>
+    <style>
+      .t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+      .w{animation:w 4s ease-in-out infinite}
+      @keyframes w{0%,100%{opacity:.35}50%{opacity:1}}
+    </style>
+  </defs>
+  <rect width="1200" height="120" rx="16" fill="url(#bg)"/>
+  <rect x="560" y="28" width="80" height="2" fill="#4C9AFF"/>
+  <text class="t" x="600" y="66" text-anchor="middle" fill="#FFFFFF" font-size="18" font-weight="300" letter-spacing="4">OBRIGADO PELA VISITA  ·  THANKS FOR VISITING</text>
+  <text class="t w" x="600" y="94" text-anchor="middle" fill="#4C9AFF" font-size="13" letter-spacing="3">MICHAEL MAXIMINO DE CASTRO</text>
+</svg>
