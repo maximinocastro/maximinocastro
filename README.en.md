@@ -29,8 +29,6 @@
 
 ## 👨‍💻 About me
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=05070D&title_color=4C9AFF&text_color=FFFFFF&langs_count=6&title=Top%20Languages" alt="Top Languages">
-
 - 🧩 **TOTVS Protheus Specialist**
 - 💙 Passionate about **Delphi**
 - ⚙️ I build with **AdvPL / TLPP**, **Angular**, **C#** and **JavaScript**
@@ -57,44 +55,10 @@
 
 ---
 
-## 📂 Projects
-
-<p align="center">
-  <a href="https://github.com/SEU_USUARIO/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO_1&hide_border=true&bg_color=05070D&title_color=4C9AFF&text_color=FFFFFF&icon_color=4C9AFF" alt="REPO_1">
-  </a>
-  <a href="https://github.com/SEU_USUARIO/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO_2&hide_border=true&bg_color=05070D&title_color=4C9AFF&text_color=FFFFFF&icon_color=4C9AFF" alt="REPO_2">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/SEU_USUARIO/REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO_3&hide_border=true&bg_color=05070D&title_color=4C9AFF&text_color=FFFFFF&icon_color=4C9AFF" alt="REPO_3">
-  </a>
-  <a href="https://github.com/SEU_USUARIO/REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO_4&hide_border=true&bg_color=05070D&title_color=4C9AFF&text_color=FFFFFF&icon_color=4C9AFF" alt="REPO_4">
-  </a>
-</p>
-
----
-
 ## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=05070D&title_color=4C9AFF&text_color=FFFFFF&icon_color=4C9AFF&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img height="170" src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=05070D&ring=4C9AFF&fire=4C9AFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4C9AFF&sideLabels=9AA4B2&dates=9AA4B2&stroke=1E2A3A" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&hide_border=true&bg_color=05070D&color=FFFFFF&line=4C9AFF&point=FFFFFF&area=true&area_color=1E6FFF&title_color=4C9AFF" alt="Activity Graph">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies">
 </p>
 
 ---
