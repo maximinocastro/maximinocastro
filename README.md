@@ -60,20 +60,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maximinocastro&show_icons=true&hide_border=true&bg_color=05070D&title_color=4C9AFF&text_color=FFFFFF&icon_color=4C9AFF&include_all_commits=true&count_private=true&title=Estat%C3%ADsticas" alt="GitHub Stats">
   <img height="170" src="https://streak-stats.demolab.com?user=maximinocastro&hide_border=true&background=05070D&ring=4C9AFF&fire=4C9AFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4C9AFF&sideLabels=9AA4B2&dates=9AA4B2&stroke=1E2A3A&locale=pt_BR" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maximinocastro&hide_border=true&bg_color=05070D&color=FFFFFF&line=4C9AFF&point=FFFFFF&area=true&area_color=1E6FFF&title_color=4C9AFF&custom_title=Gr%C3%A1fico%20de%20Atividade" alt="Activity Graph">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maximinocastro&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies">
 </p>
 
 ---
